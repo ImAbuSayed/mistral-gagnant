@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mistral-gagnant/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Mistral Gagnant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mistral-gagnant/) |
+| **Get License** | [Request Licensing for Mistral Gagnant](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mistral-gagnant/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, je cherche ton ombre
+> Dans le club enfumé, tu danses et je sombre
+> Ton parfum de minuit m'attire comme un aimant
+> Viens tout près de moi, je veux figer le temps
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
